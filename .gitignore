@@ -1,0 +1,12 @@
+data/processed/*.csv
+data/processed/*.npy
+data/raw/
+models/*.pt
+models/*.pth
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+.DS_Store
+results/
